@@ -1,1 +1,1 @@
-# SeasonStyles
+# Seasonal-styles
